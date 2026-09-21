@@ -120,7 +120,7 @@
     "magnet-uri": "^5.1.4",
     "memoizee": "^0.4.14",
     "morgan": "^1.5.3",
-    "multer": "^1.1.0",
+    "multer": "^2.3.0",
     "nodemailer": "^6.0.0",
     "oauth2-server": "3.1.0-beta.1",
     "parse-torrent": "^7.0.0",
