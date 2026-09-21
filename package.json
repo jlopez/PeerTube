@@ -119,7 +119,7 @@
     "lru-cache": "^5.1.1",
     "magnet-uri": "^5.1.4",
     "memoizee": "^0.4.14",
-    "morgan": "^1.5.3",
+    "morgan": "^1.12.0",
     "multer": "^1.1.0",
     "nodemailer": "^6.0.0",
     "oauth2-server": "3.1.0-beta.1",
